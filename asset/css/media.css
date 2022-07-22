@@ -37,6 +37,22 @@
       padding-right: 0;
       padding-left: 20px;
   }
+  .our-team .section-heading{text-align: center !important;}
+  #testimonial{margin-top:30px;}
+  .carousel-item{text-align: center;}
+  .test_btn{bottom: -114%;top:0;}
+.c_item{margin-bottom: 30px;}
+.contact-page .section-heading{text-align: center;
+  }
+    .w-count{
+    font-size: 18px;
+    line-height: 22px;
+  }
+
+  .mb-sm-4{margin-bottom: 30px;}
+  span.counter-count{font-size: 35px;margin-right: 10px;}
+  .recent-work {margin-bottom: 50px;}
+  
 }
 
 /* Small devices (landscape phones, 576px and up)*/
@@ -74,6 +90,9 @@
       padding-left: 20px;
   }
   .c_item{margin-bottom: 30px;}
+  .contact-page .section-heading{text-align: center;
+}
+.recent-work{margin-bottom: 50px;}
 }
 
 /* Medium devices (tablets, 768px and up)*/
