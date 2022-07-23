@@ -119,7 +119,9 @@ p.top-title{
   color: var(--primary-color);
 
 }
-
+.navbar-collapse{
+  background: var(--light-color);
+}
 
 .text-bold{
   font-weight: bold;
